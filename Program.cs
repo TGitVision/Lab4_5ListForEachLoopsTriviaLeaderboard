@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Lab4_5ListForEachLoops
+namespace Lab4_5ListForEachLoopTriviaLeaderboard
 {
     class Program
     {
