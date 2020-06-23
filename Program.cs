@@ -7,7 +7,7 @@ namespace Lab4_5ListForEachLoopTriviaLeaderboard
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from Lab4_5ListForEachLoops!\r\n");
+            Console.WriteLine("Hello World from Lab4_5ListForEachLoopTriviaLeaderboard!\r\n");
 
             Console.WriteLine("1. Create a list that holds the scores you've been given.\r\n");
             List<int> Scores = new List<int>();
@@ -68,7 +68,7 @@ namespace Lab4_5ListForEachLoopTriviaLeaderboard
 
             Console.WriteLine("\r\n");
 
-            Console.WriteLine("5. A user has closed their account and needs to have all of " +
+            Console.WriteLine("6. A user has closed their account and needs to have all of " +
                                 " their information deleted. Remove the score 4400 from the list.\r\n");
 
             Scores.Remove(4400);
